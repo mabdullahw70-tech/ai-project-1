@@ -11,8 +11,8 @@ export default function Home() {
           </p>
         </blockquote>
         <figcaption>
-          <div>Sarah Dayan</div>
-          <div>Staff Engineer, Algolia</div>
+          <div>Abdullah Mughal</div>
+          <div>Software Engineer, UOS</div>
         </figcaption>
       </div>
     </figure>
